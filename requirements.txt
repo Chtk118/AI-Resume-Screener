@@ -1,0 +1,7 @@
+streamlit
+pandas
+sentence-transformers
+fuzzywuzzy
+scikit-learn
+numpy
+python-Levenshtein
